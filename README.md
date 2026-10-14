@@ -1,5 +1,5 @@
 # 🛡️ AI SMS Guardian — MoMo Fraud Detection
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skadamah-momo-guardian.streamlit.app/)
 An AI-powered web application built with **Streamlit** and **Scikit-learn** to detect Mobile Money (MoMo) fraud and phishing SMS messages targeting users in Ghana.
 
 This project aligns with **UN Sustainable Development Goal 16 (Peace, Justice, and Strong Institutions)** by promoting digital financial security and mitigating fraud across mobile payment ecosystems.
